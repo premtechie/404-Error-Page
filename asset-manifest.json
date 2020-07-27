@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/404-Error-Page/static/css/main.3be903ab.chunk.css",
+    "main.js": "/404-Error-Page/static/js/main.ebebd4fe.chunk.js",
+    "main.js.map": "/404-Error-Page/static/js/main.ebebd4fe.chunk.js.map",
+    "runtime-main.js": "/404-Error-Page/static/js/runtime-main.4caa9263.js",
+    "runtime-main.js.map": "/404-Error-Page/static/js/runtime-main.4caa9263.js.map",
+    "static/js/2.4d293b96.chunk.js": "/404-Error-Page/static/js/2.4d293b96.chunk.js",
+    "static/js/2.4d293b96.chunk.js.map": "/404-Error-Page/static/js/2.4d293b96.chunk.js.map",
+    "index.html": "/404-Error-Page/index.html",
+    "precache-manifest.c5f1c23d91de3627ffdaf80d91c874f9.js": "/404-Error-Page/precache-manifest.c5f1c23d91de3627ffdaf80d91c874f9.js",
+    "service-worker.js": "/404-Error-Page/service-worker.js",
+    "static/css/main.3be903ab.chunk.css.map": "/404-Error-Page/static/css/main.3be903ab.chunk.css.map",
+    "static/js/2.4d293b96.chunk.js.LICENSE.txt": "/404-Error-Page/static/js/2.4d293b96.chunk.js.LICENSE.txt",
+    "static/media/Scarecrow.png": "/404-Error-Page/static/media/Scarecrow.9f720a55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4caa9263.js",
+    "static/js/2.4d293b96.chunk.js",
+    "static/css/main.3be903ab.chunk.css",
+    "static/js/main.ebebd4fe.chunk.js"
+  ]
+}
