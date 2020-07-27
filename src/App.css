@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300;500&display=swap');
+
+.App {
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+
+.App p{
+  text-align: start;
+  padding-left: 40px;
+  font-size: 1.2rem;
+  font-family: 'Recursive', sans-serif;
+  
+}
+.App .footer{
+  font-weight:lighter;
+  font-size: 12px;
+}
